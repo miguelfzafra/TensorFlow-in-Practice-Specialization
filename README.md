@@ -16,3 +16,10 @@
 * Transfer learning. 
 * Dropout regularization.
 * Multiclass classification.
+
+## Course 3 - Natural Language Processing in TensorFlow
+
+* Tokeniing sentences. Turning sentences into numbers. Padding.
+* Word embeddings. Training embeddings for an application and visualizing embedding vectors.
+* Sequence models: RNN, GRU, LSTM. Convolutions for text processing.
+* Text generation. Next word prediction.
